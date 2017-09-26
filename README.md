@@ -4,7 +4,7 @@
 
 [![MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/jakeoid/waste-basket/blob/master/LICENSE.md)
 
-A port of the an ubersicht plugin, displays the number of reviews and lessons that you have on WaniKani!
+A port of an ubersicht plugin, displays the number of reviews and lessons that you have on WaniKani!
 
 <img src="https://i.imgur.com/zUZlhO2.png" align="center" />
 
